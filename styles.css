@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color: #ededed;
+    color: #444;
+}
+
+h1{
+    background-color: #cdcdcd;
+}
+
+p{
+    background-color: #acacac;
+}
