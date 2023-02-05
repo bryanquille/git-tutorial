@@ -1,1 +1,5 @@
 Soy un chanchito feliz webpage
+
+Este archivo es para conocer como funciona git.
+
+Por esta practica tenemos varios archivos.
